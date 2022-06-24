@@ -7,7 +7,6 @@ function Home() {
       <h1>Home</h1>
       <Button type="primary">Click me</Button>
       <br />
-      <ToggleTheme />
     </div>
   );
 }
